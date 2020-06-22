@@ -4,7 +4,7 @@
  * Introduction
  ----------------
 
- DBChallenge Application provides service of transactional activities.
+  DBChallenge Application provides service of transactional activities.
 
  * Feature
   ----------------
@@ -14,6 +14,13 @@
   3. It supports transactional activities like account creation, amount transfers
   4. Ownership belongs DB
 
+ * TODO : Improvements before production
+ ----------------------------------------
+ 
+  1. Proper implementation of Logging levels.
+  2. Monitoring of Service by Kibbana Tool
+  3. Containerization of the service 
+  
 
  * Requirements
  ----------------
@@ -39,7 +46,7 @@
  ----------------
 
     Use IntelliJ Gradle Plugins
-    Run al test cases
+    Run all test cases
 
  * Troubleshooting
  ----------------
